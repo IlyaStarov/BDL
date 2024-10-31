@@ -1,0 +1,7 @@
+path: animals
+train: D:/lab5_DL/animals/train
+val: D:/lab5_DL/animals/val
+names:
+  0: cat
+  1: dog
+  2: wild
